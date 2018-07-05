@@ -1,0 +1,23 @@
+<html>
+
+	<head> 
+		<title>Manual para armar un rompecabezas 3D</title>
+	</head>
+
+	<body>
+		<h1>Manual para armar una figura 3D</h1>
+		<p>Con este manual podrás armar un rompecabezas 3D sin verlo armado primero</p>
+		<br />
+		<br /><br />
+		<iframe src="https://clara.io/embed/cfadc53b-4d59-482e-a36f-2529f6d80a7a?renderer=webgl" width="600" height="400" allowfullscreen></iframe>
+		<br /><br />
+		<iframe src="https://clara.io/embed/decfacc4-190d-402d-a2b2-53ada761619c?renderer=webgl" width="600" height="400" allowfullscreen></iframe>
+		<br /><br />
+		<iframe src="https://clara.io/embed/6a365e1f-cb38-4488-b5d0-5c0073e90c02?renderer=webgl" width="600" height="400" allowfullscreen></iframe>
+		<br /><br />
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/-vZ4vik3ekA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+	</body>
+
+
+</html>
